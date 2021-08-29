@@ -6,9 +6,6 @@ class TicTacToe {
         [null, null, null],
         [null, null, null]
         ];
-        this.lastRow = '';
-        this.lastColumn = '';
-
     }
 
     getCurrentPlayerSymbol() {
